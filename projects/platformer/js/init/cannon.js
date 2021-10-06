@@ -27,7 +27,11 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        createCannon("top", 450);
+        createCannon("top", 430);
+        createCannon("right", 650);
+        createCannon("top", 390);
+        createCannon("top", 410);
+        createCannon("top", 370);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
